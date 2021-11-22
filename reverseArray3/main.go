@@ -5,6 +5,7 @@ import (
 	"sort"
 )
 
+// this one sorts array
 func main() {
 	s := []int{5, 2, 6, 3, 1, 4} // unsorted
 	fmt.Printf("Array: %d \n", s)
